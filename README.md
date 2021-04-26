@@ -14,4 +14,4 @@ THEN:
 - Find Out How To Build An Index
 -   - Look at how DJIA is calculated
 -   - Weighted average?
-- 
+-   - Deploy onto Pages
